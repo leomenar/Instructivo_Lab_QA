@@ -58,3 +58,5 @@ La evaluación del informe de laboratorio contempla los siguientes aspectos:
 +------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+
 
 Cada rubro se califica utilizando una escala de *excelente* (4p), *satisfactorio* (3p), *regular* (2p), *insatisfactorio* (1p) o *deficiente* (0p). La calificación se realiza basado en el grado de cumplimiento según lo solicitado, *excelente* (100%), *satisfactorio* (85-100%), *regular* (50-85%), *insatisfactorio* (\<50%) y *deficiente* (no presenta la sección).
+
+## Referencias
