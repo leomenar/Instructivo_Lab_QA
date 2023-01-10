@@ -1,0 +1,99 @@
+# Trabajo de laboratorio
+
+## Normas generales
+
+Las personas estudiantes deben trabajar en el laboratorio siguiendo algunas reglas básicas, entre las que se pueden enumerar las siguientes:
+
+1.  No se debe ingerir alimentos y tomar refrescos en el laboratorio.
+2.  En todo momento se deben acatar las reglas de seguridad.
+3.  No se permite recibir visitas mientras se realiza la práctica o ausentarse sin el consentimiento de la persona docente.
+4.  Se debe trabajar de forma ordenada y con voz moderada.
+5.  El trabajo debe ser individual y se evaluará la capacidad organizativa de trabajo.
+6.  El uso de cualquier artefacto electrónico de audio y/o video mientras se realiza la práctica no es permitido.
+7.  No se permite que en la gaveta o la mesa de trabajo se tenga apuntes, el libro de texto de laboratorio o el cuaderno utilizado en la instrucción.
+
+## Asistencia
+
+Si la persona estudiante no asiste a dos sesiones de laboratorio, aunque justifique ambas ausencias, automáticamente perderá el curso. Por ende, el laboratorio se calificará con una nota que no podrá superar un 6,75 (en escala de 10), aún si al calcular la nota se obtiene un valor superior.
+
+Solo se admitirán ausencias justificadas por motivo de causa mayor: enfermedad grave o accidente del estudiante (con el dictamen médico correspondiente de la C.C.S.S.), nacimiento de un hijo(a), citación judicial, fallecimiento de familiares en primer grado de consanguinidad (5 días hábiles), matrimonio, desastre natural comprobado, convocatoria a actividades referentes a la carrera que cursa en las que pueda presentar la carta de justificación correspondiente, firmada por la persona a cargo de la actividad. Las ausencias que correspondan a alguna de estas causas deben justificarse por escrito con los documentos probatorios respectivos y entregarse a su docente en un lapso de 8 días a partir de la ausencia.
+
+## Materiales
+
+Para trabajar en el laboratorio el alumno debe presentarse con:
+
+1.  Dos limpiones o toallas de al menos 50 cm x 30 cm.
+2.  Papel toalla (opcional, pero recomendado).
+3.  Marcador permanente para cristalería punta 90.
+4.  Etiquetas adhesivas (opcional).
+5.  Esponja y jabón líquido.
+
+*Nota: el profesor del curso podrá restringir la entrada de la persona estudiante que no lleve todos los materiales.*
+
+## Presentación
+
+La persona estudiante debe presentarse con gabacha de manga larga que cubra sus rodillas. Adicionalmente, se debe utilizar anteojos de seguridad y guantes de nitrilo (cuando sea necesario).
+
+No se permite el ingreso al laboratorio en pantalones cortos, enaguas o en sandalias. Es prohibido el uso de gorras, bufandas, anteojos oscuros y cualquier artefacto electrónico de audio y/o video mientras se realiza la práctica. Las personas de cabello largo deberán sujetárselos apropiadamente.
+
+## Revisión de materiales y gaveta
+
+La persona estudiante deberá preparar una lista de los materiales a usar en la práctica y que será solicitado a la ventanilla bajo un formato especial, el cual podrá ser digital o en físico. En los primeros 10 minutos de su estancia en el laboratorio, deberá revisar el material presente en su gaveta y reportará al personal de la ventanilla si existiera un faltante, junto con la lista de material adicional requerido. Cada persona tendrá acceso a una única gaveta para su trabajo en el laboratorio, por lo que será responsable del material presente durante la realización de la práctica.
+
+## Equipo
+
+Todo equipo debe ser utilizado siguiendo las instrucciones de la persona docente. La balanza debe dejarse apagada, limpia y cubierta. Se debe cuidar en todo momento la cristalería y el equipo asignado.
+
+## Limpieza de mesas y pila
+
+Las mesas y pilas de lavado de la cristalería deben quedar limpias al final de la práctica.
+
+## Manejo de reactivos
+
+Los reactivos utilizados en la práctica deben ser manipulados correctamente y, al final de la misma, se deberán dejar ordenados en la mesa correspondiente. Las disoluciones madres o reactivos que debido a su relevancia deban ser administrados únicamente por la persona docente. Los recipientes de agua destilada deben cerrarse completamente después de su uso.
+
+## Manejo de residuos
+
+Los residuos químicos se deben manejar según el protocolo de la Escuela de Química. Nunca descartar los residuos en las pilas. En algunos casos, la persona docente podrá recomendar la disposición en otras clasificaciones, tomando en cuenta la concentración y peligrosidad de los otros componentes del residuo.
+
+## Evaluación
+
+La evaluación del trabajo de laboratorio contempla los siguientes aspectos:
+
++---------------------------------------------+----------------------------------------------------------------------------------------------------------------+----+
+| Rubro                                       | Aspecto a calificar                                                                                            | \% |
++=============================================+================================================================================================================+====+
+| Puntualidad y preparación                   | Asiste puntualmente.                                                                                           | 5  |
+|                                             |                                                                                                                |    |
+|                                             | Está preparada para empezar a trabajar cuando lo indica la persona docente.                                    |    |
++---------------------------------------------+----------------------------------------------------------------------------------------------------------------+----+
+| Participación, interés y atención           | Tiene una actitud activa y positiva durante la práctica.                                                       | 10 |
+|                                             |                                                                                                                |    |
+|                                             | Comunicación asertiva con las demás personas.                                                                  |    |
+|                                             |                                                                                                                |    |
+|                                             | Se muestra siempre atento durante las explicaciones de la persona docente, no existe uso del teléfono celular. |    |
++---------------------------------------------+----------------------------------------------------------------------------------------------------------------+----+
+| Ritmo de trabajo                            | Trabaja de forma constante durante la práctica.                                                                | 20 |
+|                                             |                                                                                                                |    |
+|                                             | Termina la práctica a tiempo.                                                                                  |    |
++---------------------------------------------+----------------------------------------------------------------------------------------------------------------+----+
+| Destreza, autonomía y ejecución experimenta | Tiene un manejo avanzado y es capaz de resolver por sí misma los problemas que van apareciendo.                | 40 |
+|                                             |                                                                                                                |    |
+|                                             | Realiza de forma correcta el montaje del experimento.                                                          |    |
+|                                             |                                                                                                                |    |
+|                                             | Maneja de forma correcta los utensilios de laboratorio.                                                        |    |
++---------------------------------------------+----------------------------------------------------------------------------------------------------------------+----+
+| Recopilación y manejo de datos              | Se realiza de forma ordenada.                                                                                  | 10 |
+|                                             |                                                                                                                |    |
+|                                             | Existe un adecuado uso de cifras significativas.                                                               |    |
+|                                             |                                                                                                                |    |
+|                                             | Recopila datos adicionales de relevancia (equipos, concentraciones, entre otros)                               |    |
++---------------------------------------------+----------------------------------------------------------------------------------------------------------------+----+
+| Normas de seguridad                         | Aplica de forma correcta los materiales de protección personal (MPP).                                          | 10 |
+|                                             |                                                                                                                |    |
+|                                             | Usa en todo momento lentes y rotula adecuadamente toda la cristalería.                                         |    |
++---------------------------------------------+----------------------------------------------------------------------------------------------------------------+----+
+| Gestión de residuos                         | Gestiona los residuos de forma correcta                                                                        | 5  |
++---------------------------------------------+----------------------------------------------------------------------------------------------------------------+----+
+
+Cada rubro se califica utilizando una escala de *excelente* (3p), *satisfactorio* (2p), *insatisfactorio* (1p) o *deficiente* (0p). Se considera *excelente* cuando se cumple completamente con todo lo solicitado, *satisfactorio* cuando hay deficiencias en al menos 1 aspecto, *insatisfactorio* cuando hay deficiencias en 2 aspectos, y *deficiente* cuando hay deficiencias en 2 o más aspectos. Los rubros de **puntualidad y preparación** y **gestión de residuos** se clalifican únicamente como *excelente* o *deficiente*.

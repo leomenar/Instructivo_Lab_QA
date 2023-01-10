@@ -2,22 +2,26 @@ project:
   type: book
 
 book:
-  title: "Book"
-  author: "Jane Doe"
-  date: "1/9/2023"
+  title: "Instructivo de laboratorio"
+  author: "L Mena Rivera, R Sánchez Gutiérrez, J Rodríguez Corrales, R Alfaro Solís & G Esquivel Hernández"
   chapters:
-    - index.qmd
     - intro.qmd
-    - summary.qmd
-    - references.qmd
+    - part: Generalidades
+      chapters:
+        - generalidades.qmd
+        - cuaderno.qmd
+        - informe.qmd
+    - part: Incertidumbres
+      chapters: 
+        - datos.qmd
 
 bibliography: references.bib
+csl: american-chemical-society.csl
 
 format:
   html:
     theme: cosmo
   pdf:
-    documentclass: scrreprt
+    documentclass: scrreport
 
 editor: visual
-

@@ -1,8 +1,8 @@
-# Introduction
+# Preface {.unnumbered}
 
-This is a book created from markdown and executable code.
+This is a Quarto book.
 
-See @knuth84 for additional discussion of literate programming.
+To learn more about Quarto books visit <https://quarto.org/docs/books>.
 
 ```{r}
 1 + 1
