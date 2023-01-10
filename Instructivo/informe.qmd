@@ -29,7 +29,7 @@ El informe debe incluir lo siguiente:
 
 7.  Referencias: en la discusión de resultados debe indicarse con un número entre paréntesis, en cursiva y al final de la frase, la correspondiente referencia bibliográfica consultada. Las referencias deben presentarse ordenadas numéricamente con forme se citan en la discusión, como en el párrafo anterior. Se debe incluir un mínimo de tres referencias bibliográficas de libros de texto o artículos científicos. Puede usar referencias de internet, pero después de haber completado las tres citas de libros o revistas. Para citar las referencias bibliográficas se seguirá el formato de la American Chemical Society (ACS) [@ACSguide]. Algunos ejemplos se pueden consultar en el siguiente [link](https://pubs.acs.org/doi/full/10.1021/acsguide.40303). Se recomienda el uso de software especializado como [Zootero](https://www.zotero.org/) o [Mendeley](https://www.mendeley.com/).
 
-En el siguiente link se puede consultar un ejemplo de un informe de laboratorio.
+En el siguiente [link](https://github.com/leomenar/Instructivo_Lab_QA/blob/9d9ccee25f962177e0acbb98cc21d07a518cffef/Anexos/Formato_informe.docx) se puede consultar un ejemplo de un informe de laboratorio.
 
 ## Evaluación
 
