@@ -5,7 +5,7 @@ book:
   title: "Instructivo de laboratorio"
   author: "L Mena Rivera, R Sánchez Gutiérrez, J Rodríguez Corrales, R Alfaro Solís & G Esquivel Hernández"
   chapters:
-    - intro.qmd
+    - index.qmd
     - part: Generalidades
       chapters:
         - generalidades.qmd
