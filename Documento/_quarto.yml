@@ -1,0 +1,27 @@
+project:
+  type: book
+
+book:
+  title: "Instructivo de laboratorio"
+  author: "L Mena Rivera, R Sánchez Gutiérrez, J Rodríguez Corrales, R Alfaro Solís & G Esquivel Hernández"
+  chapters:
+    - index.qmd
+    - part: Generalidades
+      chapters:
+        - generalidades.qmd
+        - cuaderno.qmd
+        - informe.qmd
+    - part: Incertidumbres
+      chapters: 
+        - incertidumbres.qmd
+
+bibliography: references.bib
+csl: american-chemical-society.csl
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreport
+
+editor: visual
