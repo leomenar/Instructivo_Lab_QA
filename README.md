@@ -1,1 +1,1 @@
-# Instructivo_Lab_QA
+# Instructivo para los laboratorios de Química Analítica.
