@@ -1,1 +1,1 @@
-# Instructivo para los laboratorios de Química Analítica.
+# Instructivo para los laboratorios de Química Analítica
