@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: c7e8d0fd-fc63-4e2a-afea-8caf25089a2a
+      url: 'https://quartopub.com/sites/leomenar/instructivo-de-laboratorio'
