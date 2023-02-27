@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Instructivo de laboratorio",
+    "section": "",
+    "text": "Bienvenidos\nEste documento contiene información de referencia para el curso de laboratorio de Química Analítica para Bioprocesos, el cuál se imparte para la carrera de Ingeniería en Bioprocesos Industriales de la Universidad Nacional."
+  },
+  {
+    "objectID": "informe.html#preparación",
+    "href": "informe.html#preparación",
+    "title": "3  Informe",
+    "section": "3.1 Preparación",
+    "text": "3.1 Preparación\nLos informes de laboratorio se elaborarán y enviarán a la persona docente en un documento de Word. Se redactan en pasado y en forma impersonal. El informe debe estar escrito con letra tipo Arial, tamaño 12 y a doble columna. Se debe seguir el formato del ejemplo que se adjunta al final de esta página. Los informes deberán entregarse en el Aula Virtual según las fechas indicadas en el cronograma del curso. De no ser así la nota adjudicada será un cero.\nEl informe debe incluir lo siguiente:\n\nEncabezado: cada página deberá estar numerada en la parte superior con el siguiente consecutivo: UNA-EQ-LQAC-NNNNN-IIII-RL-PP-DD, donde NNNNN será sustituido por el NRC del curso, IIII será sustituido por las iniciales del o de la estudiante, PP será sustituido por el código de la práctica (por ejemplo, P1 o P2), DD será sustituido por el número de página del documento y RL significa reporte de laboratorio.\nTítulo de la práctica\nDatos generales: nombre de la persona estudiante, fecha de realización de la práctica, fecha de entrega del informe y nombre del profesor de laboratorio.\nFundamento teórico: debe incluirse la versión corregida del fundamento teórico presentado en el cuaderno de laboratorio.\nMateriales y métodos: incluye una descripción del procedimiento experimental realizado.\nResultados y discusión: debe presentar un aporte propio de ideas teórico - prácticas, a raíz de la experiencia vivida en el laboratorio. En primera instancia debe reportar el resultado(s) obtenido(os) en la práctica incluyendo el promedio, incertidumbre expandida y desviación estándar relativa en porcentaje. En lo referente a la discusión de la práctica, debe discutirse y analizar los resultados obtenidos. Entre otras cosas, puede considerar:\n\nInterpretar el resultado en el contexto de la reglamentación (nacional o internacional), valores de referencia, valores recomendados, artículos científicos u otros recursos.\nPresentar fuentes de error justificando cuando es posible, las diferencias obtenidas en los resultados. Este punto no debe ser la excusa para justificar en cada informe todas las posibles equivocaciones cometidas.\nDar recomendaciones para disminuir fuentes de error.\nPresentar otros métodos de análisis para el analito y compararlo con el que se realizó.\n\nDebe evitarse presentar una copia textual de páginas de otros textos, insertados y con elementos repetitivos. Debe citar referencias bibliográficas relevantes cuando sea pertinente.\nEjemplo de discusión: La literatura relacionada con la química analítica muestra una gran cantidad de métodos gravimétricos, volumétricos e instrumentales para analizar mercurio (1). Dicho elemento se puede analizar también mediante la técnica combinada de extracción con posterior determinación espectrofotométrica. El mercurio y un agente ligante forman complejos solubles en la fase orgánica que posteriormente son determinados por espectrofotometría ultravioleta-visible (2,4). …\nReferencias: en la discusión de resultados debe indicarse con un número entre paréntesis, en cursiva y al final de la frase, la correspondiente referencia bibliográfica consultada. Las referencias deben presentarse ordenadas numéricamente con forme se citan en la discusión, como en el párrafo anterior. Se debe incluir un mínimo de tres referencias bibliográficas de libros de texto o artículos científicos. Puede usar referencias de internet, pero después de haber completado las tres citas de libros o revistas. Para citar las referencias bibliográficas se seguirá el formato de la American Chemical Society (ACS)1. Algunos ejemplos se pueden consultar en el siguiente link. Se recomienda el uso de software especializado como Zootero o Mendeley.\n\nEn el siguiente link se puede consultar un ejemplo de un informe de laboratorio."
+  },
+  {
+    "objectID": "informe.html#evaluación",
+    "href": "informe.html#evaluación",
+    "title": "3  Informe",
+    "section": "3.2 Evaluación",
+    "text": "3.2 Evaluación\nLa evaluación del informe de laboratorio contempla los siguientes aspectos:\n\n\n\n\n\n\n\n\nRubro\nAspectos a calificar\n%\n\n\n\n\nIntroducción\nPresenta el fundamento de la técnica de forma correcta e incorpora las correcciones efectuadas por la persona docente.\n15\n\n\nMétodos\nPresenta un breve resumen del procedimiento experimental redactado en prosa y en pasado.\n20\n\n\nResultados y discusión\nPresenta un aporte propio de ideas teórico- rácticas, las cuales se encuentran relacionadas con los resultados obtenidos en la práctica y con la experiencia vivida en el laboratorio.\nReporta el resultado(s) obtenido(os) en la práctica incluyendo el promedio, incertidumbre expandida y desviación estándar relativa en porcentaje.\nIncluye gráficos o figuras si es necesario.\nIncluye en la discusión: a) interpretación del resultado en el contexto de la reglamentación (nacional o internacional), valores de referencia, valores recomendados, artículos científicos u otros recursos; b) fuentes de error justificando cuando es posible, las diferencias obtenidas en los resultados; c) recomendaciones para disminuir fuentes de error; y d) presenta otros métodos de análisis para el analito y compararlo con el que se realizó.\nCita las referencias bibliográficas relevantes cuando sea pertinente.\n50\n\n\nReferencias\nIncluye un mínimo de tres referencias (excluyendo el libro de texto de laboratorio y el de teoría).\nUtiliza el formato ACS.\n15\n\n\n\nCada rubro se califica utilizando una escala de excelente (4p), satisfactorio (3p), regular (2p), insatisfactorio (1p) o deficiente (0p). La calificación se realiza basado en el grado de cumplimiento según lo solicitado, excelente (100%), satisfactorio (85-100%), regular (50-85%), insatisfactorio (<50%) y deficiente (no presenta la sección)."
+  },
+  {
+    "objectID": "informe.html#referencias",
+    "href": "informe.html#referencias",
+    "title": "3  Informe",
+    "section": "3.3 Referencias",
+    "text": "3.3 Referencias\n\n\n\n\n(1) The ACS guide to scholarly communication (ACS publications). https://pubs.acs.org/doi/book/10.1021/acsguide."
+  },
+  {
+    "objectID": "cuaderno.html#preparación",
+    "href": "cuaderno.html#preparación",
+    "title": "2  Cuaderno",
+    "section": "2.1 Preparación",
+    "text": "2.1 Preparación\nEl cuaderno de laboratorio se elaborará y enviará a la persona docente en un documento de Word. El cuaderno debe estar escrito con letra tipo Arial, tamaño 12. Se debe seguir el formato del ejemplo que se adjunta al final de esta página.\nEl documento deberá ser entregado en el Aula Virtual, o la plataforma respectiva (OneNote, por ejemplo), en el día de la semana que designe la persona docente durante la primera semana del curso. Por lo general, será al menos un día hábil antes de la sesión del laboratorio.\nLa persona estudiante debe presentarse a la sesión de laboratorio con el documento impreso, o en un dispositivo digital (preferiblemente tablet), en donde anotará todos los valores medidos y otra información relevante. En el caso de documentos impresos, se utilizará lapicero azul o negro. Además, se prohíbe el uso de corrector o lápiz, así como la corrección excesiva con tachones. Al finalizar el experimento y antes de retirarse del laboratorio, la persona estudiante deberá solicitar al docente la firma del cuaderno de laboratorio.\nEl cuaderno de laboratorio debe incluir lo siguiente:\n\nEncabezado: cada página deberá estar numerada en la parte superior con el siguiente consecutivo: UNA-EQ-LQAC-NNNNN-IIII-CL-PP, donde NNNNN será sustituido por el NRC del curso, IIII será sustituido por las iniciales de la persona estudiante, PP será sustituido por el código de la práctica (por ejemplo, P1 o P2) y CL significa cuaderno de laboratorio.\nTítulo de la práctica\nFecha de realización\nFundamento teórico: corresponde a un pequeño resumen del fundamento del método que incluye las reacciones químicas principales, el tipo de técnica a utilizar, los indicadores y virajes de color a observar, el tratamiento químico de la muestra, sustancias tipo patrón, longitudes de onda y los parámetros a reportar. El fundamento teórico se escribe con base en la técnica a utilizar (por ejemplo, una valoración de vinagre usando NaOH), no así las particularidades de un experimento en específico (por ejemplo, una valoración de 15 mL de vinagre usando NaOH 0,1001 M con fenolftaleína 0,51 %). Por ende, no se debe escribir cantidades a usar, concentraciones de disoluciones (salvo que sean de suma importancia), cristalería o marca de equipo.\nProcedimiento: puede ser escrito por pasos, en forma resumida pero clara o en forma de diagramas de flujo. En el procedimiento deberá incluirse también el tratamiento de la muestra o la calibración de los instrumentos (si lo hubiese).\nDatos preliminares: fórmulas para los cálculos. Deberá escribir los valores de todas las constantes (por ejemplo, masas molares u otras constantes físicas y/o químicas de interés) que se requieran en las fórmulas, y sus respectivas incertidumbres. En esta sección se pueden adicionar reacciones química secundarias si las hubiese.\nDatos experimentales: cuadros con un título descriptivo, el número de cuadro, las unidades para cada medida y la incertidumbre absoluta de éstas cuando es conocida (por ejemplo, por prácticas donde ya se utilizó el mismo instrumento). Deje doble espacio para anotar los datos pues si falla en la primera anotación, puede escribir el número en la otra casilla del cuadro.\nManejo de residuos: se derá de escribir un procedimiento de segregación adecuada de los residuos que se van a generar durante la práctica\nObservaciones: en esta sección podrá incluir cualquier dato relevante. Durante la realización de la práctica de laboratorio, podrá hacer anotaciones que no correspondan a datos experimentales.\nCálculos: deberá de presentar los cálculos realizados para cada práctica. Podrá utilizar una muestra de cálculo o bien, adjuntar una hoja de cálculo de Microsoft Excel.\nResultados: debe reportar el resultado(os) obtenido(os) en la práctica incluyendo el promedio, incertidumbre expandida y desviación estándar relativa en porcentaje.\n\nEn el siguiente link se puede consultar un ejemplo de cuaderno de laboratorio.\nImportante\nNo se permitirá el ingreso de estudiantes que no tengan preparado a cabalidad el cuaderno de laboratorio al inicio de la sesión o que no entreguen el cuaderno en las fechas definidas por las personas docentes. Esto implicará la pérdida del laboratorio de esa fecha, adjudicándose un cero en los conceptos a ser evaluados. En caso de entregar cuadernos de laboratorio incompletos, y según criterio de la persona docente, la persona estudiante no podrá iniciar la práctica hasta completar la información faltante. El tiempo usado para dicho fin no se repondrá."
+  },
+  {
+    "objectID": "cuaderno.html#evaluación",
+    "href": "cuaderno.html#evaluación",
+    "title": "2  Cuaderno",
+    "section": "2.2 Evaluación",
+    "text": "2.2 Evaluación\nLa evaluación del cuaderno de laboratorio contempla los siguientes aspectos:\n\n\n\n\n\n\n\n\nRubro\nAspectos a calificar\n%\n\n\n\n\nFormato\nNumeración de secciónes y páginas.\nUtiliza la tipografía adecuada.\nSigue el formato brindado.\n5\n\n\nFundamento teórico\nDescribe la técnica, reacciones y unidades que se reportan.\nLa redacción es clara y evita hacer un resumen de la práctica.\nHace uso adecuado del tiempo verbal.\n20\n\n\nProcedimiento\nSe decribe de forma completa y actualizada según se explica en instrucción.\n5\n\n\nDatos preliminares\nIncluye todas las constantes, formulas y demás datos necesarios según aplique.\n5\n\n\nDatos experimentales\nIncluye el título, número de cuadro, incertidumbres, encabezados, unidades.\nHay claridad en la redacción.\n20\n\n\nManejo de residuos\nIncluye la clasificación de los residuos de forma correcta y la cantidad aproximada.\n5\n\n\nCálculos\nIncluye el resultado de cada repetición, una muestra de cálculo de la incertidumbre combinada, los resultados de todas las incertidumbres combinadas, incertidumbre del promedio e incertidumbre expandida.\nReporta todos los valores con el número correcto de cifras significativas.\n35\n\n\nResultados\nReporta el promedio, la incertidumbre expandida y la desviación estándar relativa.\n5\n\n\n\nCada rubro se califica utilizando una escala de excelente (3p), satisfactorio (2p), insatisfactorio (1p) o deficiente (0p). Se considera excelente cuando se cumple completamente con todo lo solicitado, satisfactorio cuando hay deficiencias en al menos 1-2 aspectos, insatisfactorio cuando hay deficiencias en 2 o más aspectos, y deficiente cuando no se presenta la sección."
+  },
+  {
+    "objectID": "incertidumbres.html",
+    "href": "incertidumbres.html",
+    "title": "4  Cálculo de incertidumbres",
+    "section": "",
+    "text": "Ejemplo del cálculo de…"
+  },
+  {
+    "objectID": "generalidades.html#normas-generales",
+    "href": "generalidades.html#normas-generales",
+    "title": "1  Trabajo de laboratorio",
+    "section": "1.1 Normas generales",
+    "text": "1.1 Normas generales\nLas personas estudiantes deben trabajar en el laboratorio siguiendo algunas reglas básicas, entre las que se pueden enumerar las siguientes:\n\nNo se debe ingerir alimentos y tomar refrescos en el laboratorio.\nEn todo momento se deben acatar las reglas de seguridad.\nNo se permite recibir visitas mientras se realiza la práctica o ausentarse sin el consentimiento de la persona docente.\nSe debe trabajar de forma ordenada y con voz moderada.\nEl trabajo debe ser individual y se evaluará la capacidad organizativa de trabajo.\nEl uso de cualquier artefacto electrónico de audio y/o video mientras se realiza la práctica no es permitido.\nNo se permite que en la gaveta o la mesa de trabajo se tenga apuntes, el libro de texto de laboratorio o el cuaderno utilizado en la instrucción."
+  },
+  {
+    "objectID": "generalidades.html#asistencia",
+    "href": "generalidades.html#asistencia",
+    "title": "1  Trabajo de laboratorio",
+    "section": "1.2 Asistencia",
+    "text": "1.2 Asistencia\nSi la persona estudiante no asiste a dos sesiones de laboratorio, aunque justifique ambas ausencias, automáticamente perderá el curso. Por ende, el laboratorio se calificará con una nota que no podrá superar un 6,75 (en escala de 10), aún si al calcular la nota se obtiene un valor superior.\nSolo se admitirán ausencias justificadas por motivo de causa mayor: enfermedad grave o accidente del estudiante (con el dictamen médico correspondiente de la C.C.S.S.), nacimiento de un hijo(a), citación judicial, fallecimiento de familiares en primer grado de consanguinidad (5 días hábiles), matrimonio, desastre natural comprobado, convocatoria a actividades referentes a la carrera que cursa en las que pueda presentar la carta de justificación correspondiente, firmada por la persona a cargo de la actividad. Las ausencias que correspondan a alguna de estas causas deben justificarse por escrito con los documentos probatorios respectivos y entregarse a su docente en un lapso de 8 días a partir de la ausencia."
+  },
+  {
+    "objectID": "generalidades.html#materiales",
+    "href": "generalidades.html#materiales",
+    "title": "1  Trabajo de laboratorio",
+    "section": "1.3 Materiales",
+    "text": "1.3 Materiales\nPara trabajar en el laboratorio el alumno debe presentarse con:\n\nDos limpiones o toallas de al menos 50 cm x 30 cm.\nPapel toalla (opcional, pero recomendado).\nMarcador permanente para cristalería punta 90.\nEtiquetas adhesivas (opcional).\nEsponja y jabón líquido.\n\nNota: el profesor del curso podrá restringir la entrada de la persona estudiante que no lleve todos los materiales."
+  },
+  {
+    "objectID": "generalidades.html#presentación",
+    "href": "generalidades.html#presentación",
+    "title": "1  Trabajo de laboratorio",
+    "section": "1.4 Presentación",
+    "text": "1.4 Presentación\nLa persona estudiante debe presentarse con gabacha de manga larga que cubra sus rodillas. Adicionalmente, se debe utilizar anteojos de seguridad y guantes de nitrilo (cuando sea necesario).\nNo se permite el ingreso al laboratorio en pantalones cortos, enaguas o en sandalias. Es prohibido el uso de gorras, bufandas, anteojos oscuros y cualquier artefacto electrónico de audio y/o video mientras se realiza la práctica. Las personas de cabello largo deberán sujetárselos apropiadamente."
+  },
+  {
+    "objectID": "generalidades.html#revisión-de-materiales-y-gaveta",
+    "href": "generalidades.html#revisión-de-materiales-y-gaveta",
+    "title": "1  Trabajo de laboratorio",
+    "section": "1.5 Revisión de materiales y gaveta",
+    "text": "1.5 Revisión de materiales y gaveta\nLa persona estudiante deberá preparar una lista de los materiales a usar en la práctica y que será solicitado a la ventanilla bajo un formato especial, el cual podrá ser digital o en físico. En los primeros 10 minutos de su estancia en el laboratorio, deberá revisar el material presente en su gaveta y reportará al personal de la ventanilla si existiera un faltante, junto con la lista de material adicional requerido. Cada persona tendrá acceso a una única gaveta para su trabajo en el laboratorio, por lo que será responsable del material presente durante la realización de la práctica."
+  },
+  {
+    "objectID": "generalidades.html#equipo",
+    "href": "generalidades.html#equipo",
+    "title": "1  Trabajo de laboratorio",
+    "section": "1.6 Equipo",
+    "text": "1.6 Equipo\nTodo equipo debe ser utilizado siguiendo las instrucciones de la persona docente. La balanza debe dejarse apagada, limpia y cubierta. Se debe cuidar en todo momento la cristalería y el equipo asignado."
+  },
+  {
+    "objectID": "generalidades.html#limpieza-de-mesas-y-pila",
+    "href": "generalidades.html#limpieza-de-mesas-y-pila",
+    "title": "1  Trabajo de laboratorio",
+    "section": "1.7 Limpieza de mesas y pila",
+    "text": "1.7 Limpieza de mesas y pila\nLas mesas y pilas de lavado de la cristalería deben quedar limpias al final de la práctica."
+  },
+  {
+    "objectID": "generalidades.html#manejo-de-reactivos",
+    "href": "generalidades.html#manejo-de-reactivos",
+    "title": "1  Trabajo de laboratorio",
+    "section": "1.8 Manejo de reactivos",
+    "text": "1.8 Manejo de reactivos\nLos reactivos utilizados en la práctica deben ser manipulados correctamente y, al final de la misma, se deberán dejar ordenados en la mesa correspondiente. Las disoluciones madres o reactivos que debido a su relevancia deban ser administrados únicamente por la persona docente. Los recipientes de agua destilada deben cerrarse completamente después de su uso."
+  },
+  {
+    "objectID": "generalidades.html#manejo-de-residuos",
+    "href": "generalidades.html#manejo-de-residuos",
+    "title": "1  Trabajo de laboratorio",
+    "section": "1.9 Manejo de residuos",
+    "text": "1.9 Manejo de residuos\nLos residuos químicos se deben manejar según el protocolo de la Escuela de Química. Nunca descartar los residuos en las pilas. En algunos casos, la persona docente podrá recomendar la disposición en otras clasificaciones, tomando en cuenta la concentración y peligrosidad de los otros componentes del residuo."
+  },
+  {
+    "objectID": "generalidades.html#evaluación",
+    "href": "generalidades.html#evaluación",
+    "title": "1  Trabajo de laboratorio",
+    "section": "1.10 Evaluación",
+    "text": "1.10 Evaluación\nLa evaluación del trabajo de laboratorio contempla los siguientes aspectos:\n\n\n\n\n\n\n\n\nRubro\nAspecto a calificar\n%\n\n\n\n\nPuntualidad y preparación\nAsiste puntualmente.\nEstá preparada para empezar a trabajar cuando lo indica la persona docente.\n5\n\n\nParticipación, interés y atención\nTiene una actitud activa y positiva durante la práctica.\nComunicación asertiva con las demás personas.\nSe muestra siempre atento durante las explicaciones de la persona docente, no existe uso del teléfono celular.\n10\n\n\nRitmo de trabajo\nTrabaja de forma constante durante la práctica.\nTermina la práctica a tiempo.\n20\n\n\nDestreza, autonomía y ejecución experimenta\nTiene un manejo avanzado y es capaz de resolver por sí misma los problemas que van apareciendo.\nRealiza de forma correcta el montaje del experimento.\nManeja de forma correcta los utensilios de laboratorio.\n40\n\n\nRecopilación y manejo de datos\nSe realiza de forma ordenada.\nExiste un adecuado uso de cifras significativas.\nRecopila datos adicionales de relevancia (equipos, concentraciones, entre otros)\n10\n\n\nNormas de seguridad\nAplica de forma correcta los materiales de protección personal (MPP).\nUsa en todo momento lentes y rotula adecuadamente toda la cristalería.\n10\n\n\nGestión de residuos\nGestiona los residuos de forma correcta\n5\n\n\n\nCada rubro se califica utilizando una escala de excelente (3p), satisfactorio (2p), insatisfactorio (1p) o deficiente (0p). Se considera excelente cuando se cumple completamente con todo lo solicitado, satisfactorio cuando hay deficiencias en al menos 1 aspecto, insatisfactorio cuando hay deficiencias en 2 aspectos, y deficiente cuando hay deficiencias en 2 o más aspectos. Los rubros de puntualidad y preparación y gestión de residuos se clalifican únicamente como excelente o deficiente."
+  }
+]

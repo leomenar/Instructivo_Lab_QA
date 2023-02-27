@@ -3,7 +3,8 @@ project:
 
 book:
   title: "Instructivo de laboratorio"
-  author: "L Mena Rivera, R Sánchez Gutiérrez, J Rodríguez Corrales, R Alfaro Solís & G Esquivel Hernández"
+  author: "L Mena Rivera"
+  date: "2/26/2023"
   chapters:
     - index.qmd
     - part: Generalidades
