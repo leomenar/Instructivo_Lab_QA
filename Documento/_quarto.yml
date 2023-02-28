@@ -12,6 +12,9 @@ book:
         - generalidades.qmd
         - cuaderno.qmd
         - informe.qmd
+    - part: Experimentos
+      chapters:
+        - recursos.qmd
     - part: Incertidumbres
       chapters: 
         - incertidumbres.qmd

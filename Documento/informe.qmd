@@ -2,7 +2,7 @@
 
 ## Preparación
 
-Los informes de laboratorio se elaborarán y enviarán a la persona docente en un documento de Word. Se redactan en pasado y en forma impersonal. El informe debe estar escrito con letra tipo Arial, tamaño 12 y a doble columna. Se debe seguir el formato del ejemplo que se puede descargar en este [link](https://github.com/leomenar/Instructivo_Lab_QA/blob/main/Anexos/Formato_libreta.docx). Los informes deberán entregarse en el Aula Virtual según las fechas indicadas en el cronograma del curso. De no ser así la nota adjudicada será un cero.
+Los informes de laboratorio se elaborarán y enviarán a la persona docente en un documento de Word. Se redactan en pasado y en forma impersonal. El informe debe estar escrito con letra tipo Arial, tamaño 12 y a doble columna. Se debe seguir el formato del ejemplo que se puede descargar en este [link](https://unaaccr-my.sharepoint.com/:w:/g/personal/leonardo_mena_rivera_una_ac_cr/EUaJiEvk3M5DvDyo20zztLQBgCiJFpWYpky-tif9cNWWQQ?e=WUh3eC). Los informes deberán entregarse en el Aula Virtual según las fechas indicadas en el cronograma del curso. De no ser así la nota adjudicada será un cero.
 
 El informe debe incluir lo siguiente:
 

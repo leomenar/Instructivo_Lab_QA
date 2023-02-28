@@ -40,6 +40,8 @@ No se permite el ingreso al laboratorio en pantalones cortos, enaguas o en sanda
 
 La persona estudiante deberá preparar una lista de los materiales a usar en la práctica y que será solicitado a la ventanilla bajo un formato especial, el cual podrá ser digital o en físico. En los primeros 10 minutos de su estancia en el laboratorio, deberá revisar el material presente en su gaveta y reportará al personal de la ventanilla si existiera un faltante, junto con la lista de material adicional requerido. Cada persona tendrá acceso a una única gaveta para su trabajo en el laboratorio, por lo que será responsable del material presente durante la realización de la práctica.
 
+![Figura 1. Materiales y cristalería presentes en cada gaveta.](images/IMG_0941.jpg){fig-align="center" width="500"}
+
 ## Equipo
 
 Todo equipo debe ser utilizado siguiendo las instrucciones de la persona docente. La balanza debe dejarse apagada, limpia y cubierta. Se debe cuidar en todo momento la cristalería y el equipo asignado.
@@ -47,6 +49,8 @@ Todo equipo debe ser utilizado siguiendo las instrucciones de la persona docente
 ## Limpieza de mesas y pila
 
 Las mesas y pilas de lavado de la cristalería deben quedar limpias al final de la práctica.
+
+![Figura 2. Pila del laboratorio.](images/IMG_0945-01.jpg){fig-align="center" width="500"}
 
 ## Manejo de reactivos
 
@@ -60,40 +64,40 @@ Los residuos químicos se deben manejar según el protocolo de la Escuela de Qu�
 
 La evaluación del trabajo de laboratorio contempla los siguientes aspectos:
 
-+---------------------------------------------+----------------------------------------------------------------------------------------------------------------+----+
-| Rubro                                       | Aspecto a calificar                                                                                            | \% |
-+=============================================+================================================================================================================+====+
-| Puntualidad y preparación                   | Asiste puntualmente.                                                                                           | 5  |
-|                                             |                                                                                                                |    |
-|                                             | Está preparada para empezar a trabajar cuando lo indica la persona docente.                                    |    |
-+---------------------------------------------+----------------------------------------------------------------------------------------------------------------+----+
-| Participación, interés y atención           | Tiene una actitud activa y positiva durante la práctica.                                                       | 10 |
-|                                             |                                                                                                                |    |
-|                                             | Comunicación asertiva con las demás personas.                                                                  |    |
-|                                             |                                                                                                                |    |
-|                                             | Se muestra siempre atento durante las explicaciones de la persona docente, no existe uso del teléfono celular. |    |
-+---------------------------------------------+----------------------------------------------------------------------------------------------------------------+----+
-| Ritmo de trabajo                            | Trabaja de forma constante durante la práctica.                                                                | 20 |
-|                                             |                                                                                                                |    |
-|                                             | Termina la práctica a tiempo.                                                                                  |    |
-+---------------------------------------------+----------------------------------------------------------------------------------------------------------------+----+
-| Destreza, autonomía y ejecución experimenta | Tiene un manejo avanzado y es capaz de resolver por sí misma los problemas que van apareciendo.                | 40 |
-|                                             |                                                                                                                |    |
-|                                             | Realiza de forma correcta el montaje del experimento.                                                          |    |
-|                                             |                                                                                                                |    |
-|                                             | Maneja de forma correcta los utensilios de laboratorio.                                                        |    |
-+---------------------------------------------+----------------------------------------------------------------------------------------------------------------+----+
-| Recopilación y manejo de datos              | Se realiza de forma ordenada.                                                                                  | 10 |
-|                                             |                                                                                                                |    |
-|                                             | Existe un adecuado uso de cifras significativas.                                                               |    |
-|                                             |                                                                                                                |    |
-|                                             | Recopila datos adicionales de relevancia (equipos, concentraciones, entre otros)                               |    |
-+---------------------------------------------+----------------------------------------------------------------------------------------------------------------+----+
-| Normas de seguridad                         | Aplica de forma correcta los materiales de protección personal (MPP).                                          | 10 |
-|                                             |                                                                                                                |    |
-|                                             | Usa en todo momento lentes y rotula adecuadamente toda la cristalería.                                         |    |
-+---------------------------------------------+----------------------------------------------------------------------------------------------------------------+----+
-| Gestión de residuos                         | Gestiona los residuos de forma correcta                                                                        | 5  |
-+---------------------------------------------+----------------------------------------------------------------------------------------------------------------+----+
++---------------------------------------------+----------------------------------------------------------------------------------------------------------------+-----------+
+| Rubro                                       | Aspecto a calificar                                                                                            | \%        |
++=============================================+================================================================================================================+===========+
+| Puntualidad y preparación                   | Asiste puntualmente.                                                                                           | 5         |
+|                                             |                                                                                                                |           |
+|                                             | Está preparada para empezar a trabajar cuando lo indica la persona docente.                                    |           |
++---------------------------------------------+----------------------------------------------------------------------------------------------------------------+-----------+
+| Participación, interés y atención           | Tiene una actitud activa y positiva durante la práctica.                                                       | 10        |
+|                                             |                                                                                                                |           |
+|                                             | Comunicación asertiva con las demás personas.                                                                  |           |
+|                                             |                                                                                                                |           |
+|                                             | Se muestra siempre atento durante las explicaciones de la persona docente, no existe uso del teléfono celular. |           |
++---------------------------------------------+----------------------------------------------------------------------------------------------------------------+-----------+
+| Ritmo de trabajo                            | Trabaja de forma constante durante la práctica.                                                                | 20        |
+|                                             |                                                                                                                |           |
+|                                             | Termina la práctica a tiempo.                                                                                  |           |
++---------------------------------------------+----------------------------------------------------------------------------------------------------------------+-----------+
+| Destreza, autonomía y ejecución experimenta | Tiene un manejo avanzado y es capaz de resolver por sí misma los problemas que van apareciendo.                | 40        |
+|                                             |                                                                                                                |           |
+|                                             | Realiza de forma correcta el montaje del experimento.                                                          |           |
+|                                             |                                                                                                                |           |
+|                                             | Maneja de forma correcta los utensilios de laboratorio.                                                        |           |
++---------------------------------------------+----------------------------------------------------------------------------------------------------------------+-----------+
+| Recopilación y manejo de datos              | Se realiza de forma ordenada.                                                                                  | 10        |
+|                                             |                                                                                                                |           |
+|                                             | Existe un adecuado uso de cifras significativas.                                                               |           |
+|                                             |                                                                                                                |           |
+|                                             | Recopila datos adicionales de relevancia (equipos, concentraciones, entre otros)                               |           |
++---------------------------------------------+----------------------------------------------------------------------------------------------------------------+-----------+
+| Normas de seguridad                         | Aplica de forma correcta los materiales de protección personal (MPP).                                          | 10        |
+|                                             |                                                                                                                |           |
+|                                             | Usa en todo momento lentes y rotula adecuadamente toda la cristalería.                                         |           |
++---------------------------------------------+----------------------------------------------------------------------------------------------------------------+-----------+
+| Gestión de residuos                         | Gestiona los residuos de forma correcta                                                                        | 5         |
++---------------------------------------------+----------------------------------------------------------------------------------------------------------------+-----------+
 
 Cada rubro se califica utilizando una escala de *excelente* (3p), *satisfactorio* (2p), *insatisfactorio* (1p) o *deficiente* (0p). Se considera *excelente* cuando se cumple completamente con todo lo solicitado, *satisfactorio* cuando hay deficiencias en al menos 1 aspecto, *insatisfactorio* cuando hay deficiencias en 2 aspectos, y *deficiente* cuando hay deficiencias en 2 o más aspectos. Los rubros de **puntualidad y preparación** y **gestión de residuos** se clalifican únicamente como *excelente* o *deficiente*.
