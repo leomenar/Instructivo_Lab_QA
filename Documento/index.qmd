@@ -1,3 +1,0 @@
-# Bienvenidos {.unnumbered}
-
-Este documento contiene información de referencia para el curso de *laboratorio* de Química Analítica para Bioprocesos, el cuál se imparte para la carrera de Ingeniería en Bioprocesos Industriales de la Universidad Nacional.

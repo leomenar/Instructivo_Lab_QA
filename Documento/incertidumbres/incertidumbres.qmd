@@ -1,9 +1,0 @@
-## Introducción
-
-Esta sección tiene como objetivo brindar algunos ejemplos para el cálculo y reporte de la incertidumbre de mediciones analíticas que se realizan durante el curso. Es indispensaable que el estudiante de previo se familiarice con los conceptos generales, para lo cual se recomiendan los siguientes recursos:
-
-1.  Estimation of measurement uncertainty in chemical analysis, University of Tartu. [@MOOC]
-
-2.  Cuantificación de la incertidumbre en medidas analíticas, Eurachem. @EurachemCITAC
-
-## Referencias
