@@ -1,0 +1,73 @@
+# Cuaderno
+
+## Preparación
+
+El cuaderno de laboratorio se elaborará y enviará a la persona docente en un documento de Word. El cuaderno debe estar escrito con letra tipo Arial, tamaño 12 y se debe seguir el formato del ejemplo que se puede descargar en este [enlace](https://unaaccr-my.sharepoint.com/:w:/g/personal/leonardo_mena_rivera_una_ac_cr/EeG2Rnyc4jNMmp_ICBxUXKYBSllnf1tCmmMrGMQ04uK8PA?e=rNpRN5).
+
+El documento deberá ser entregado en el Aula Virtual, o la plataforma respectiva (OneNote, por ejemplo), en el día de la semana que designe la persona docente durante la primera semana del curso. Por lo general, será al menos un día hábil antes de la sesión del laboratorio.
+
+La persona estudiante debe presentarse a la sesión de laboratorio con el documento impreso, o en un dispositivo digital (preferiblemente tablet), en donde anotará todos los valores medidos y otra información relevante. En el caso de documentos impresos, se utilizará lapicero azul o negro. Además, se prohíbe el uso de corrector o lápiz, así como la corrección excesiva con tachones. Al finalizar el experimento y antes de retirarse del laboratorio, la persona estudiante deberá solicitar al docente la firma del cuaderno de laboratorio.
+
+El cuaderno de laboratorio debe incluir lo siguiente:
+
+1.  Encabezado: cada página deberá estar numerada en la parte superior con el siguiente consecutivo: **UNA-EQ-LQAC-NNNNN-IIII-CL-PP**, donde NNNNN será sustituido por el NRC del curso, IIII será sustituido por las iniciales de la persona estudiante, PP será sustituido por el código de la práctica (por ejemplo, P1 o P2) y CL significa cuaderno de laboratorio.
+
+2.  Título de la práctica
+
+3.  Fecha de realización
+
+4.  Fundamento teórico: corresponde a un pequeño resumen del fundamento del método que incluye las reacciones químicas principales, el tipo de técnica a utilizar, los indicadores y virajes de color a observar, el tratamiento químico de la muestra, sustancias tipo patrón, longitudes de onda y los parámetros a reportar. El fundamento teórico se escribe con base en la técnica a utilizar (por ejemplo, una valoración de vinagre usando NaOH), no así las particularidades de un experimento en específico (por ejemplo, una valoración de 15 mL de vinagre usando NaOH 0,1001 M con fenolftaleína 0,51 %). Por ende, no se debe escribir cantidades a usar, concentraciones de disoluciones (salvo que sean de suma importancia), cristalería o marca de equipo.
+
+5.  Procedimiento: puede ser escrito por pasos, en forma resumida pero clara o en forma de diagramas de flujo. En el procedimiento deberá incluirse también el tratamiento de la muestra o la calibración de los instrumentos (si lo hubiese).
+
+6.  Datos preliminares: fórmulas para los cálculos. Deberá escribir los valores de todas las constantes (por ejemplo, masas molares u otras constantes físicas y/o químicas de interés) que se requieran en las fórmulas, y sus respectivas incertidumbres. En esta sección se pueden adicionar reacciones química secundarias si las hubiese.
+
+7.  Datos experimentales: cuadros con un título descriptivo, el número de cuadro, las unidades para cada medida y la incertidumbre absoluta de éstas cuando es conocida (por ejemplo, por prácticas donde ya se utilizó el mismo instrumento). Deje doble espacio para anotar los datos pues si falla en la primera anotación, puede escribir el número en la otra casilla del cuadro.
+
+8.  Manejo de residuos: se derá de escribir un procedimiento de segregación adecuada de los residuos que se van a generar durante la práctica
+
+9.  Observaciones: en esta sección podrá incluir cualquier dato relevante. Durante la realización de la práctica de laboratorio, podrá hacer anotaciones que no correspondan a datos experimentales.
+
+10. Cálculos: deberá de presentar los cálculos realizados para cada práctica. Podrá utilizar una muestra de cálculo o bien, adjuntar una hoja de cálculo de Microsoft Excel.
+
+11. Resultados: debe reportar el resultado(os) obtenido(os) en la práctica incluyendo el promedio, incertidumbre expandida y desviación estándar relativa en porcentaje.
+
+**Importante**
+
+*No se permitirá el ingreso de estudiantes que no tengan preparado a cabalidad el cuaderno de laboratorio al inicio de la sesión o que no entreguen el cuaderno en las fechas definidas por las personas docentes. Esto implicará la pérdida del laboratorio de esa fecha, adjudicándose un cero en los conceptos a ser evaluados. En caso de entregar cuadernos de laboratorio incompletos, y según criterio de la persona docente, la persona estudiante no podrá iniciar la práctica hasta completar la información faltante. El tiempo usado para dicho fin no se repondrá.*
+
+## Evaluación
+
+La evaluación del cuaderno de laboratorio contempla los siguientes aspectos:
+
++----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----+
+| Rubro                | Aspectos a calificar                                                                                                                                                                                        | \% |
++======================+=============================================================================================================================================================================================================+====+
+| Formato              | Numeración de secciónes y páginas.                                                                                                                                                                          | 5  |
+|                      |                                                                                                                                                                                                             |    |
+|                      | Utiliza la tipografía adecuada.                                                                                                                                                                             |    |
+|                      |                                                                                                                                                                                                             |    |
+|                      | Sigue el formato brindado.                                                                                                                                                                                  |    |
++----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----+
+| Fundamento teórico   | Describe la técnica, reacciones químicas y unidades que se reportan.                                                                                                                                        | 20 |
+|                      |                                                                                                                                                                                                             |    |
+|                      | La redacción es clara y evita hacer un resumen de la práctica.                                                                                                                                              |    |
+|                      |                                                                                                                                                                                                             |    |
+|                      | Hace uso adeacuado del tiempo verbal.                                                                                                                                                                       |    |
++----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----+
+| Procedimiento        | Se describe de forma completa y actualizada según se explica en la instrucción.                                                                                                                             | 5  |
++----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----+
+| Datos preliminares   | Inlcuye todas las constantes, fórmulas y demás datos necesarios según aplique.                                                                                                                              | 5  |
++----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----+
+| Datos experimentales | Incluye el título, número de cuadro, incertidumbres, encabezados y unidades.                                                                                                                                | 20 |
+|                      |                                                                                                                                                                                                             |    |
+|                      | Hay claridad en la redacción.                                                                                                                                                                               |    |
++----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----+
+| Manejo de residuos   | Incluye la clasificación de los residuos de forma correcta y la cantidad aproximada.                                                                                                                        | 5  |
++----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----+
+| Cálculos             | Incluye el resultado de cada repetición, una muestra de cálculo de la incertidumbre combinada, los resultados de todas las incertidumbres combinadas, incertidumbre del promedio e incertidumbre expandida. | 35 |
++----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----+
+| Resultados           | Reporta el valor promedio, la incertidumbre expandida y la desviación estándar relativa.                                                                                                                    | 5  |
++----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----+
+
+Cada rubro se califica utilizando una escala de *excelente* (3p), *satisfactorio* (2p), *insatisfactorio* (1p) o *deficiente* (0p). Se considera *excelente* cuando se cumple completamente con todo lo solicitado, *satisfactorio* cuando hay deficiencias en al menos 1-2 aspectos, *insatisfactorio* cuando hay deficiencias en 2 o más aspectos, y *deficiente* cuando no se presenta la sección.
